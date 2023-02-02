@@ -57,7 +57,7 @@ jobs:
           #- version: 17
           #  dist: zulu
           # OpenJ9, an alternate JVM implementation.
-          - version: 8
+          - version: 8.0.302+8
             dist: adopt-openj9
           #- version: 14
           #  dist: adopt-openj9
